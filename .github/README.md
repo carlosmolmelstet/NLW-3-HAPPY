@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Happy" title="Happy" src="home.png" />
+    <img alt="Happy" title="Happy" src=".github/logo.png" />
 </h1>
 
 <p align="center">
