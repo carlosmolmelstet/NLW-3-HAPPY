@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://nlw-03-happy.vercel.app/app">Deploy</a>
+  <a href="https://nlw-03-happy.vercel.app">Deploy</a>
 </p>
 
 <br>
