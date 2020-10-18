@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="Happy" src="happy.png" width="100%">
+  <img alt="Happy" src="home.png" width="100%">
 </p>
 
 ## 💻 Projeto
