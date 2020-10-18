@@ -42,4 +42,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
     <img alt="Happy" src="mobileCreate.png" width="23%">
 </h2>
 
-Feito com ♥ by [Rocketseat](https://app.rocketseat.com.br/dashboard), [Carlos Molmelstet](https://github.com/carlosmolmelstet) e [Gabriela Liz]()
+Feito com ♥ by [Rocketseat](https://app.rocketseat.com.br/dashboard), [Carlos Molmelstet](https://github.com/carlosmolmelstet) e [Gabriela Liz](https://github.com/gabiliz)
