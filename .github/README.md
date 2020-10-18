@@ -3,12 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Implementaçoes">Implementaçoes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://nlw-03-happy.vercel.app/app">Deploy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-
-
+  <a href="https://nlw-03-happy.vercel.app/app">Deploy</a>
 </p>
 
 <br>
@@ -39,5 +34,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
     
 - Campo para doações
    <p> Alem de ajudarmos as crianças levando alegria e amor para elas, tambem podemos ajudar quando não estamos presencialmente no lar, atravez de doaçoes, pode ser um brinquedo, alimento ou ate mesmo uma ajuda financeira para ser revertida em beneficio das crianças </p>
+   
+<h2>
+     <img alt="Happy" src="logo.svg" width="40%">
+</h2>
 
 Feito com ♥ by [Rocketseat](https://app.rocketseat.com.br/dashboard)
