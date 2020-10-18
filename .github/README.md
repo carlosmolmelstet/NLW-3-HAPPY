@@ -36,7 +36,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
    <p> Alem de ajudarmos as crianças levando alegria e amor para elas, tambem podemos ajudar quando não estamos presencialmente no lar, atravez de doaçoes, pode ser um brinquedo, alimento ou ate mesmo uma ajuda financeira para ser revertida em beneficio das crianças </p>
    
 <h2>
-     <img alt="Happy" src="logo.svg" width="40%">
+     <img alt="Happy" src="mobileHome.svg" width="33%">
+     <img alt="Happy" src="mobileMap.svg" width="33%">
+     <img alt="Happy" src="mobileOrphanage.svg" width="33%">
 </h2>
 
 Feito com ♥ by [Rocketseat](https://app.rocketseat.com.br/dashboard)
